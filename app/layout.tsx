@@ -33,7 +33,6 @@ export default function RootLayout({
         </nav>
         {children}
         </body>
-      {/* <body className={inter.className}>{children}</body> */}
     </html>
   );
 }
