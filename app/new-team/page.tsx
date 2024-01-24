@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import TeamForm from './team-form';
 
 const NewTeam = () => {
